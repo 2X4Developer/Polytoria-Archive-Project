@@ -14,3 +14,5 @@ Play polytoria because that still exists.
 Also textures and meshes are from Polytoria so tell the asset creators how cool they are!
 
 Also join Polytoria discord server: https://discord.gg/7TzauuSkqR
+
+Every Client Here (Except For The Official One) Shoud Support 32 Bit.
